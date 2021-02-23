@@ -1,4 +1,5 @@
 # Domain Checker
+[Live Demo](https://fps-domain-checker.herokuapp.com/)
 
 A fraud analysis tool used to check for invalid and disposable email domains.
 
@@ -12,4 +13,3 @@ The app was built in Django using Python where it will perform a web-scrape from
 
 A export button was also included for larger querues. The user may want to download the entire results table as a CSV file for filtering and spreadsheet lookups.
 
-[LIVE DEMO](https://fps-domain-checker.herokuapp.com/)
